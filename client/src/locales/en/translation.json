@@ -11,20 +11,29 @@
     },
     "roadmap": {
         "title": "Judicial Career Roadmap",
-        "click_for_details": "Click on any step to view details"
+        "click_for_details": "Click on any step to view detailed guidance"
     },
-    "step1_title": "1. Higher Secondary (Class 12)",
-    "step1_desc": "Completing Class 12 is the foundational step. Students from any stream (Science, Commerce, or Arts) can pursue law. Focus on developing strong English and reasoning skills.",
-    "step2_title": "2. Law Entrance Exams",
-    "step2_desc": "Prepare for and clear entrance exams like CLAT (Common Law Admission Test), AILET (All India Law Entrance Test), or State-level CETs. These scores determine your admission into top National Law Universities (NLUs) and other reputed law colleges.",
-    "step3_title": "3. Pursue LLB Degree",
-    "step3_desc": " Enroll in a 5-year integrated LLB course (after Class 12) or a 3-year LLB course (after graduation). This is a mandatory requirement to become a lawyer or a judge. Focus on core subjects like Constitutional Law, IPC, CrPC, CPC, and Evidence Act.",
-    "step4_title": "4. Gain Practice Experience",
-    "step4_desc": "After completing LLB, it is highly recommended (and sometimes mandatory for Higher Judicial Services) to practice as an advocate in District or High Courts. This gives you practical exposure to court proceedings and case handling.",
-    "step5_title": "5. Judicial Services Examination",
-    "step5_desc": "This is the most critical step. Appear for the State Judicial Services Examination (PCS-J) conducted by respective State Public Service Commissions or High Courts. The exam typically consists of three stages: Preliminary (Objective), Mains (Subjective), and Interview (Personality Test).",
-    "step6_title": "6. Training Period",
-    "step6_desc": "Once selected, you will undergo rigorous training at a Judicial Academy. This training covers procedural laws, judgment writing, and court administration, preparing you for the bench.",
-    "step7_title": "7. Appointment as Civil Judge",
-    "step7_desc": "Upon successful completion of training, you will be appointed as a Civil Judge (Junior Division) or Judicial Magistrate. This marks the beginning of your illustrious career in the Indian Judiciary."
+
+
+  "step1_title": "Higher Secondary (Class 12)",
+  "step1_desc": "Completing Class 12 is the foundational step toward a career in law. Students from any stream including Science, Commerce, or Arts are eligible to pursue this path. During this stage, focus on developing strong English language proficiency along with logical reasoning and analytical skills. Participation in debates, Model United Nations, and essay writing competitions can significantly enhance communication abilities. Staying updated with current affairs and constitutional developments is essential. It is also beneficial to begin exploring basic legal awareness and landmark judicial decisions.",
+
+  "step2_title": "Law Entrance Examinations",
+  "step2_desc": "Clearing a law entrance examination is essential for admission into reputed law universities. Students should appear for exams such as CLAT, AILET, SLAT, LSAT, or relevant State CETs. These examinations typically assess English, Legal Reasoning, Logical Reasoning, and General Knowledge including Current Affairs. Developing strong time management skills and practicing through mock tests are crucial for success. Candidates should aim for top National Law Universities or other reputed institutions and carefully understand the cut-off trends, counseling process, and seat allotment procedures.",
+
+  "step3_title": "Pursue LLB Degree",
+  "step3_desc": "An LLB degree is mandatory to enter the legal profession. Students may choose between a five-year integrated LLB program after Class 12 or a three-year LLB program after graduation. The curriculum includes core subjects such as Constitutional Law, IPC, CrPC, CPC, Evidence Act, and Contract Law. Active participation in moot courts and internships helps build practical exposure. Publishing research papers and attending legal seminars further enhances academic development. Strong drafting, argumentation, and research skills must be cultivated while maintaining consistent academic performance.",
+
+  "step4_title": "Gain Practical Court Experience",
+  "step4_desc": "Practical courtroom exposure strengthens legal understanding and builds professional confidence. After completing LLB, graduates must enroll with the State Bar Council and clear the All India Bar Examination (AIBE). Practicing under a senior advocate provides valuable mentorship and insight into court procedures. Observing courtroom proceedings, handling case files, managing client consultations, and preparing legal documentation are essential aspects of professional growth. Certain higher judicial services may require a minimum number of years of legal practice.",
+
+  "step5_title": "Judicial Services Examination",
+  "step5_desc": "The Judicial Services Examination, commonly known as PCS-J, is the primary gateway to becoming a Civil Judge. It is conducted by State Public Service Commissions or High Courts and typically consists of three stages: Preliminary examination, Mains examination, and Interview. The syllabus includes procedural laws, constitutional law, and relevant state laws. Judgment writing and translation skills may also be evaluated. Consistent answer-writing practice, conceptual clarity, and structured revision strategies significantly improve the chances of selection.",
+
+  "step6_title": "Judicial Training",
+  "step6_desc": "Selected candidates undergo structured judicial training at State Judicial Academies. The training program focuses on judgment writing techniques, court management, administrative procedures, and practical aspects of trial conduct. Ethical standards, judicial discipline, and professional conduct form an integral part of the curriculum. Candidates also receive mentorship from senior judicial officers to prepare them for independent judicial responsibilities.",
+
+  "step7_title": "Appointment as Civil Judge",
+  "step7_desc": "Upon successful completion of training, candidates are appointed to the judicial service as Civil Judges or Judicial Magistrates. They are entrusted with the responsibility of adjudicating civil and criminal matters while ensuring fair trials and upholding constitutional principles. Over time, officers may be promoted to Senior Division or higher positions within the judiciary. This role carries the significant responsibility of delivering impartial justice and strengthening public trust in the legal system."
+
 }
